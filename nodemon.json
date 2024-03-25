@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "root",
+        "MONGO_PASSWORDD": "",
+        "MONGO_DB": "mongodb://localhost:27017"
+    }
+}
